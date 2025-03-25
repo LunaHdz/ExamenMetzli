@@ -20,8 +20,20 @@ Para ejecutar el proyecto, asegúrate de tener instalados los siguientes program
 
 Primero, clona el repositorio en tu máquina local utilizando Git. Abre tu terminal y ejecuta el siguiente comando:
 
-```bash
+
 git clone  https://github.com/LunaHdz/ExamenMetzli.git
+
+Se crea una nueva rama
+
+git branch NuevaRama
+
+Se cambia a la nueva rama
+
+git checkout NuevaRama
+
+Se actualiza a la rama donde subi los cambios MetzliExamen
+
+git pull origin MetzliExamen
 
 Este sistema es una aplicación web que permite gestionar productos y categorías en una tienda en línea. Los usuarios pueden:
 
